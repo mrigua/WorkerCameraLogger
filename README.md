@@ -1,0 +1,2 @@
+# WorkerCameraLogger
+WorkerCameraLogger

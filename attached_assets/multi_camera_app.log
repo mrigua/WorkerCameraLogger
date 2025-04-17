@@ -1,0 +1,495 @@
+2025-04-17 10:37:54,503 - INFO - MainThread - Logging initialized.
+2025-04-17 10:37:54,504 - INFO - MainThread - Created format directories in captures/2025-04-17/
+2025-04-17 10:37:54,504 - INFO - MainThread - Running in offscreen mode
+2025-04-17 10:37:54,507 - INFO - MainThread - Organize by format: enabled
+2025-04-17 10:37:54,507 - INFO - MainThread - Format organization enabled
+2025-04-17 10:37:54,508 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:37:54,508 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:37:54,508 - INFO - MainThread - Using mock tethered shooting manager
+2025-04-17 10:37:54,561 - INFO - MainThread - Added mock camera to tethered panel: Canon EOS 5D Mark IV at usb:mock01
+2025-04-17 10:37:54,562 - INFO - MainThread - Added mock camera to tethered panel: Sony Alpha a7 III at usb:mock02
+2025-04-17 10:37:54,563 - INFO - MainThread - Added mock camera to tethered panel: Nikon Z6 II at usb:mock03
+2025-04-17 10:37:55,565 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock01
+2025-04-17 10:37:55,565 - INFO - mock-tether-monitor-usb:mock01 - Started mock file monitoring for camera usb:mock01
+2025-04-17 10:37:55,566 - INFO - mock-tether-downloader-usb:mock01 - Started download processor for camera usb:mock01
+2025-04-17 10:37:55,566 - INFO - MainThread - Started tethering for camera usb:mock01
+2025-04-17 10:37:55,566 - INFO - MainThread - Auto-started tethering for camera at usb:mock01
+2025-04-17 10:37:55,567 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock02
+2025-04-17 10:37:55,567 - INFO - mock-tether-monitor-usb:mock02 - Started mock file monitoring for camera usb:mock02
+2025-04-17 10:37:55,568 - INFO - mock-tether-downloader-usb:mock02 - Started download processor for camera usb:mock02
+2025-04-17 10:37:55,568 - INFO - MainThread - Started tethering for camera usb:mock02
+2025-04-17 10:37:55,570 - INFO - MainThread - Auto-started tethering for camera at usb:mock02
+2025-04-17 10:37:55,570 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock03
+2025-04-17 10:37:55,570 - INFO - mock-tether-monitor-usb:mock03 - Started mock file monitoring for camera usb:mock03
+2025-04-17 10:37:55,571 - INFO - mock-tether-downloader-usb:mock03 - Started download processor for camera usb:mock03
+2025-04-17 10:37:55,571 - INFO - MainThread - Started tethering for camera usb:mock03
+2025-04-17 10:37:55,571 - INFO - MainThread - Auto-started tethering for camera at usb:mock03
+2025-04-17 10:37:56,463 - INFO - MainThread - Starting auto-capture for camera usb:mock01 with interval 3.0s
+2025-04-17 10:37:56,464 - INFO - auto-capture-usb:mock01 - Started auto-capture for camera usb:mock01
+2025-04-17 10:37:56,464 - INFO - MainThread - Started auto-capture for camera at usb:mock01
+2025-04-17 10:37:56,567 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0001.jpg
+2025-04-17 10:37:57,082 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0001_103756.jpg
+2025-04-17 10:37:59,567 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0002.raw
+2025-04-17 10:37:59,647 - ERROR - mock-tether-downloader-usb:mock01 - Error generating mock image: unknown file extension: .raw
+2025-04-17 10:37:59,648 - ERROR - mock-tether-downloader-usb:mock01 - Failed to generate mock image for /store_00010001/DCIM/100ck01/IMG_0002.raw
+2025-04-17 10:38:02,569 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0003.raw
+2025-04-17 10:38:02,585 - ERROR - mock-tether-downloader-usb:mock01 - Error generating mock image: unknown file extension: .raw
+2025-04-17 10:38:02,587 - ERROR - mock-tether-downloader-usb:mock01 - Failed to generate mock image for /store_00010001/DCIM/100ck01/IMG_0003.raw
+2025-04-17 10:38:05,569 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0004.jpg
+2025-04-17 10:38:06,079 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0004_103805.jpg
+2025-04-17 10:38:08,465 - INFO - auto-capture-usb:mock01 - Auto-capture for camera usb:mock01 completed 5 captures
+2025-04-17 10:38:08,465 - INFO - auto-capture-usb:mock01 - Stopped auto-capture for camera usb:mock01
+2025-04-17 10:38:08,571 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0005.tif
+2025-04-17 10:38:09,078 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/TIFF/IMG_0005_103808.tif
+2025-04-17 10:38:35,337 - INFO - MainThread - Logging initialized.
+2025-04-17 10:38:35,337 - INFO - MainThread - Created format directories in captures/2025-04-17/
+2025-04-17 10:38:35,338 - INFO - MainThread - Running in offscreen mode
+2025-04-17 10:38:35,342 - INFO - MainThread - Organize by format: enabled
+2025-04-17 10:38:35,342 - INFO - MainThread - Format organization enabled
+2025-04-17 10:38:35,342 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:38:35,342 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:38:35,343 - INFO - MainThread - Using mock tethered shooting manager
+2025-04-17 10:38:35,388 - INFO - MainThread - Added mock camera to tethered panel: Canon EOS 5D Mark IV at usb:mock01
+2025-04-17 10:38:35,389 - INFO - MainThread - Added mock camera to tethered panel: Sony Alpha a7 III at usb:mock02
+2025-04-17 10:38:35,390 - INFO - MainThread - Added mock camera to tethered panel: Nikon Z6 II at usb:mock03
+2025-04-17 10:38:36,392 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock01
+2025-04-17 10:38:36,392 - INFO - mock-tether-monitor-usb:mock01 - Started mock file monitoring for camera usb:mock01
+2025-04-17 10:38:36,393 - INFO - mock-tether-downloader-usb:mock01 - Started download processor for camera usb:mock01
+2025-04-17 10:38:36,394 - INFO - MainThread - Started tethering for camera usb:mock01
+2025-04-17 10:38:36,394 - INFO - MainThread - Auto-started tethering for camera at usb:mock01
+2025-04-17 10:38:36,394 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock02
+2025-04-17 10:38:36,395 - INFO - mock-tether-monitor-usb:mock02 - Started mock file monitoring for camera usb:mock02
+2025-04-17 10:38:36,397 - INFO - mock-tether-downloader-usb:mock02 - Started download processor for camera usb:mock02
+2025-04-17 10:38:36,397 - INFO - MainThread - Started tethering for camera usb:mock02
+2025-04-17 10:38:36,399 - INFO - MainThread - Auto-started tethering for camera at usb:mock02
+2025-04-17 10:38:36,406 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock03
+2025-04-17 10:38:36,407 - INFO - mock-tether-monitor-usb:mock03 - Started mock file monitoring for camera usb:mock03
+2025-04-17 10:38:36,408 - INFO - mock-tether-downloader-usb:mock03 - Started download processor for camera usb:mock03
+2025-04-17 10:38:36,408 - INFO - MainThread - Started tethering for camera usb:mock03
+2025-04-17 10:38:36,408 - INFO - MainThread - Auto-started tethering for camera at usb:mock03
+2025-04-17 10:38:37,392 - INFO - MainThread - Starting auto-capture for camera usb:mock01 with interval 3.0s
+2025-04-17 10:38:37,392 - INFO - auto-capture-usb:mock01 - Started auto-capture for camera usb:mock01
+2025-04-17 10:38:37,392 - INFO - MainThread - Started auto-capture for camera at usb:mock01
+2025-04-17 10:38:37,393 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0001.jpg
+2025-04-17 10:38:37,917 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0001_103837.jpg
+2025-04-17 10:38:40,394 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0002.tif
+2025-04-17 10:38:40,942 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/TIFF/IMG_0002_103840.tif
+2025-04-17 10:38:43,395 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0003.raw
+2025-04-17 10:38:43,406 - ERROR - mock-tether-downloader-usb:mock01 - Error generating mock image: name 'shutil' is not defined
+2025-04-17 10:38:43,406 - ERROR - mock-tether-downloader-usb:mock01 - Failed to generate mock image for /store_00010001/DCIM/100ck01/IMG_0003.raw
+2025-04-17 10:38:46,399 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0004.jpg
+2025-04-17 10:38:46,935 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0004_103846.jpg
+2025-04-17 10:38:49,393 - INFO - auto-capture-usb:mock01 - Auto-capture for camera usb:mock01 completed 5 captures
+2025-04-17 10:38:49,393 - INFO - auto-capture-usb:mock01 - Stopped auto-capture for camera usb:mock01
+2025-04-17 10:38:49,402 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0005.jpg
+2025-04-17 10:38:49,932 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0005_103849.jpg
+2025-04-17 10:39:02,377 - INFO - MainThread - Logging initialized.
+2025-04-17 10:39:02,383 - INFO - MainThread - Created format directories in captures/2025-04-17/
+2025-04-17 10:39:02,383 - INFO - MainThread - Running in offscreen mode
+2025-04-17 10:39:02,403 - INFO - MainThread - Organize by format: enabled
+2025-04-17 10:39:02,404 - INFO - MainThread - Format organization enabled
+2025-04-17 10:39:02,404 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:39:02,404 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:39:02,405 - INFO - MainThread - Using mock tethered shooting manager
+2025-04-17 10:39:02,491 - INFO - MainThread - Added mock camera to tethered panel: Canon EOS 5D Mark IV at usb:mock01
+2025-04-17 10:39:02,492 - INFO - MainThread - Added mock camera to tethered panel: Sony Alpha a7 III at usb:mock02
+2025-04-17 10:39:02,492 - INFO - MainThread - Added mock camera to tethered panel: Nikon Z6 II at usb:mock03
+2025-04-17 10:39:03,502 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock01
+2025-04-17 10:39:03,502 - INFO - mock-tether-monitor-usb:mock01 - Started mock file monitoring for camera usb:mock01
+2025-04-17 10:39:03,503 - INFO - mock-tether-downloader-usb:mock01 - Started download processor for camera usb:mock01
+2025-04-17 10:39:03,503 - INFO - MainThread - Started tethering for camera usb:mock01
+2025-04-17 10:39:03,504 - INFO - MainThread - Auto-started tethering for camera at usb:mock01
+2025-04-17 10:39:03,504 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock02
+2025-04-17 10:39:03,505 - INFO - mock-tether-monitor-usb:mock02 - Started mock file monitoring for camera usb:mock02
+2025-04-17 10:39:03,505 - INFO - mock-tether-downloader-usb:mock02 - Started download processor for camera usb:mock02
+2025-04-17 10:39:03,507 - INFO - MainThread - Started tethering for camera usb:mock02
+2025-04-17 10:39:03,507 - INFO - MainThread - Auto-started tethering for camera at usb:mock02
+2025-04-17 10:39:03,507 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock03
+2025-04-17 10:39:03,509 - INFO - mock-tether-monitor-usb:mock03 - Started mock file monitoring for camera usb:mock03
+2025-04-17 10:39:03,510 - INFO - mock-tether-downloader-usb:mock03 - Started download processor for camera usb:mock03
+2025-04-17 10:39:03,511 - INFO - MainThread - Started tethering for camera usb:mock03
+2025-04-17 10:39:03,511 - INFO - MainThread - Auto-started tethering for camera at usb:mock03
+2025-04-17 10:39:04,394 - INFO - MainThread - Starting auto-capture for camera usb:mock01 with interval 3.0s
+2025-04-17 10:39:04,396 - INFO - auto-capture-usb:mock01 - Started auto-capture for camera usb:mock01
+2025-04-17 10:39:04,397 - INFO - MainThread - Started auto-capture for camera at usb:mock01
+2025-04-17 10:39:04,503 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0001.raw
+2025-04-17 10:39:05,055 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0001_103904.raw
+2025-04-17 10:39:07,504 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0002.raw
+2025-04-17 10:39:08,018 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0002_103907.raw
+2025-04-17 10:39:10,505 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0003.raw
+2025-04-17 10:39:11,042 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0003_103910.raw
+2025-04-17 10:39:13,506 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0004.jpg
+2025-04-17 10:39:14,012 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0004_103913.jpg
+2025-04-17 10:39:16,397 - INFO - auto-capture-usb:mock01 - Auto-capture for camera usb:mock01 completed 5 captures
+2025-04-17 10:39:16,397 - INFO - auto-capture-usb:mock01 - Stopped auto-capture for camera usb:mock01
+2025-04-17 10:39:16,507 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0005.jpg
+2025-04-17 10:39:17,032 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0005_103916.jpg
+2025-04-17 11:05:13,381 - INFO - MainThread - Logging initialized.
+2025-04-17 11:05:13,381 - INFO - MainThread - Created format directories in captures/2025-04-17/
+2025-04-17 11:05:13,382 - INFO - MainThread - Running in offscreen mode
+2025-04-17 11:05:13,386 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:05:13,386 - INFO - MainThread - Format organization enabled
+2025-04-17 11:05:13,386 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:05:13,386 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:05:13,387 - INFO - MainThread - Using mock tethered shooting manager
+2025-04-17 11:05:13,436 - INFO - MainThread - Added mock camera to tethered panel: Canon EOS 5D Mark IV at usb:mock01
+2025-04-17 11:05:13,437 - INFO - MainThread - Added mock camera to tethered panel: Sony Alpha a7 III at usb:mock02
+2025-04-17 11:05:13,438 - INFO - MainThread - Added mock camera to tethered panel: Nikon Z6 II at usb:mock03
+2025-04-17 11:05:14,438 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock01
+2025-04-17 11:05:14,439 - INFO - mock-tether-monitor-usb:mock01 - Started mock file monitoring for camera usb:mock01
+2025-04-17 11:05:14,440 - INFO - mock-tether-downloader-usb:mock01 - Started download processor for camera usb:mock01
+2025-04-17 11:05:14,441 - INFO - MainThread - Started tethering for camera usb:mock01
+2025-04-17 11:05:14,441 - INFO - MainThread - Auto-started tethering for camera at usb:mock01
+2025-04-17 11:05:14,441 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock02
+2025-04-17 11:05:14,441 - INFO - mock-tether-monitor-usb:mock02 - Started mock file monitoring for camera usb:mock02
+2025-04-17 11:05:14,442 - INFO - mock-tether-downloader-usb:mock02 - Started download processor for camera usb:mock02
+2025-04-17 11:05:14,443 - INFO - MainThread - Started tethering for camera usb:mock02
+2025-04-17 11:05:14,443 - INFO - MainThread - Auto-started tethering for camera at usb:mock02
+2025-04-17 11:05:14,443 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock03
+2025-04-17 11:05:14,443 - INFO - mock-tether-monitor-usb:mock03 - Started mock file monitoring for camera usb:mock03
+2025-04-17 11:05:14,444 - INFO - mock-tether-downloader-usb:mock03 - Started download processor for camera usb:mock03
+2025-04-17 11:05:14,444 - INFO - MainThread - Started tethering for camera usb:mock03
+2025-04-17 11:05:14,444 - INFO - MainThread - Auto-started tethering for camera at usb:mock03
+2025-04-17 11:05:15,392 - INFO - MainThread - Starting auto-capture for camera usb:mock01 with interval 3.0s
+2025-04-17 11:05:15,392 - INFO - auto-capture-usb:mock01 - Started auto-capture for camera usb:mock01
+2025-04-17 11:05:15,392 - INFO - MainThread - Started auto-capture for camera at usb:mock01
+2025-04-17 11:05:15,458 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0001.raw
+2025-04-17 11:05:15,973 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0001_110515.raw
+2025-04-17 11:05:18,449 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0002.jpg
+2025-04-17 11:05:18,959 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0002_110518.jpg
+2025-04-17 11:05:21,450 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0003.tif
+2025-04-17 11:05:22,051 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/TIFF/IMG_0003_110521.tif
+2025-04-17 11:05:24,451 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0004.jpg
+2025-04-17 11:05:24,983 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0004_110524.jpg
+2025-04-17 11:05:27,393 - INFO - auto-capture-usb:mock01 - Auto-capture for camera usb:mock01 completed 5 captures
+2025-04-17 11:05:27,393 - INFO - auto-capture-usb:mock01 - Stopped auto-capture for camera usb:mock01
+2025-04-17 11:05:27,452 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0005.tif
+2025-04-17 11:05:27,964 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/TIFF/IMG_0005_110527.tif
+2025-04-17 11:07:06,881 - INFO - MainThread - Logging initialized.
+2025-04-17 11:07:06,882 - INFO - MainThread - Created format directories in captures/2025-04-17/
+2025-04-17 11:07:06,882 - INFO - MainThread - Running in offscreen mode
+2025-04-17 11:07:06,887 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:07:06,887 - INFO - MainThread - Format organization enabled
+2025-04-17 11:07:06,887 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:07:06,887 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:07:06,888 - INFO - MainThread - Using mock tethered shooting manager
+2025-04-17 11:07:06,934 - INFO - MainThread - Added mock camera to tethered panel: Canon EOS 5D Mark IV at usb:mock01
+2025-04-17 11:07:06,936 - INFO - MainThread - Added mock camera to tethered panel: Sony Alpha a7 III at usb:mock02
+2025-04-17 11:07:06,937 - INFO - MainThread - Added mock camera to tethered panel: Nikon Z6 II at usb:mock03
+2025-04-17 11:07:07,938 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock01
+2025-04-17 11:07:07,939 - INFO - mock-tether-monitor-usb:mock01 - Started mock file monitoring for camera usb:mock01
+2025-04-17 11:07:07,939 - INFO - mock-tether-downloader-usb:mock01 - Started download processor for camera usb:mock01
+2025-04-17 11:07:07,940 - INFO - MainThread - Started tethering for camera usb:mock01
+2025-04-17 11:07:07,940 - INFO - MainThread - Auto-started tethering for camera at usb:mock01
+2025-04-17 11:07:07,940 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock02
+2025-04-17 11:07:07,947 - INFO - mock-tether-monitor-usb:mock02 - Started mock file monitoring for camera usb:mock02
+2025-04-17 11:07:07,947 - INFO - mock-tether-downloader-usb:mock02 - Started download processor for camera usb:mock02
+2025-04-17 11:07:07,948 - INFO - MainThread - Started tethering for camera usb:mock02
+2025-04-17 11:07:07,948 - INFO - MainThread - Auto-started tethering for camera at usb:mock02
+2025-04-17 11:07:07,948 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock03
+2025-04-17 11:07:07,948 - INFO - mock-tether-monitor-usb:mock03 - Started mock file monitoring for camera usb:mock03
+2025-04-17 11:07:07,949 - INFO - mock-tether-downloader-usb:mock03 - Started download processor for camera usb:mock03
+2025-04-17 11:07:07,949 - INFO - MainThread - Started tethering for camera usb:mock03
+2025-04-17 11:07:07,950 - INFO - MainThread - Auto-started tethering for camera at usb:mock03
+2025-04-17 11:07:08,892 - INFO - MainThread - Starting auto-capture for camera usb:mock01 with interval 3.0s
+2025-04-17 11:07:08,892 - INFO - auto-capture-usb:mock01 - Started auto-capture for camera usb:mock01
+2025-04-17 11:07:08,892 - INFO - MainThread - Started auto-capture for camera at usb:mock01
+2025-04-17 11:07:08,940 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0001.jpg
+2025-04-17 11:07:09,464 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0001_110708.jpg
+2025-04-17 11:07:11,941 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0002.tif
+2025-04-17 11:07:12,477 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/TIFF/IMG_0002_110711.tif
+2025-04-17 11:07:14,941 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0003.jpg
+2025-04-17 11:07:15,447 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0003_110714.jpg
+2025-04-17 11:07:17,946 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0004.tif
+2025-04-17 11:07:18,461 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/TIFF/IMG_0004_110717.tif
+2025-04-17 11:07:20,893 - INFO - auto-capture-usb:mock01 - Auto-capture for camera usb:mock01 completed 5 captures
+2025-04-17 11:07:20,893 - INFO - auto-capture-usb:mock01 - Stopped auto-capture for camera usb:mock01
+2025-04-17 11:07:20,943 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0005.raw
+2025-04-17 11:07:21,502 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0005_110720.raw
+2025-04-17 11:15:19,076 - INFO - MainThread - Logging initialized.
+2025-04-17 11:15:19,077 - INFO - MainThread - Created format directories in captures/2025-04-17/
+2025-04-17 11:15:19,077 - INFO - MainThread - Running in offscreen mode
+2025-04-17 11:15:19,081 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:15:19,081 - INFO - MainThread - Format organization enabled
+2025-04-17 11:15:19,081 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:15:19,081 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:15:19,082 - INFO - MainThread - Using mock tethered shooting manager
+2025-04-17 11:15:19,148 - INFO - MainThread - Added mock camera to tethered panel: Canon EOS 5D Mark IV at usb:mock01
+2025-04-17 11:15:19,150 - INFO - MainThread - Added mock camera to tethered panel: Sony Alpha a7 III at usb:mock02
+2025-04-17 11:15:19,151 - INFO - MainThread - Added mock camera to tethered panel: Nikon Z6 II at usb:mock03
+2025-04-17 11:15:20,153 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock01
+2025-04-17 11:15:20,153 - INFO - mock-tether-monitor-usb:mock01 - Started mock file monitoring for camera usb:mock01
+2025-04-17 11:15:20,153 - INFO - mock-tether-downloader-usb:mock01 - Started download processor for camera usb:mock01
+2025-04-17 11:15:20,155 - INFO - MainThread - Started tethering for camera usb:mock01
+2025-04-17 11:15:20,155 - INFO - MainThread - Auto-started tethering for camera at usb:mock01
+2025-04-17 11:15:20,155 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock02
+2025-04-17 11:15:20,156 - INFO - mock-tether-monitor-usb:mock02 - Started mock file monitoring for camera usb:mock02
+2025-04-17 11:15:20,156 - INFO - mock-tether-downloader-usb:mock02 - Started download processor for camera usb:mock02
+2025-04-17 11:15:20,157 - INFO - MainThread - Started tethering for camera usb:mock02
+2025-04-17 11:15:20,158 - INFO - MainThread - Auto-started tethering for camera at usb:mock02
+2025-04-17 11:15:20,158 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock03
+2025-04-17 11:15:20,158 - INFO - mock-tether-monitor-usb:mock03 - Started mock file monitoring for camera usb:mock03
+2025-04-17 11:15:20,158 - INFO - mock-tether-downloader-usb:mock03 - Started download processor for camera usb:mock03
+2025-04-17 11:15:20,159 - INFO - MainThread - Started tethering for camera usb:mock03
+2025-04-17 11:15:20,159 - INFO - MainThread - Auto-started tethering for camera at usb:mock03
+2025-04-17 11:15:21,252 - INFO - MainThread - Starting auto-capture for camera usb:mock01 with interval 3.0s
+2025-04-17 11:15:21,253 - INFO - auto-capture-usb:mock01 - Started auto-capture for camera usb:mock01
+2025-04-17 11:15:21,253 - INFO - MainThread - Started auto-capture for camera at usb:mock01
+2025-04-17 11:15:21,654 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0001.raw
+2025-04-17 11:15:22,179 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0001_111521.raw
+2025-04-17 11:15:24,655 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0002.tif
+2025-04-17 11:15:25,229 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/TIFF/IMG_0002_111524.tif
+2025-04-17 11:15:27,656 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0003.raw
+2025-04-17 11:15:28,171 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0003_111527.raw
+2025-04-17 11:15:30,657 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0004.raw
+2025-04-17 11:15:31,192 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0004_111530.raw
+2025-04-17 11:15:33,254 - INFO - auto-capture-usb:mock01 - Auto-capture for camera usb:mock01 completed 5 captures
+2025-04-17 11:15:33,254 - INFO - auto-capture-usb:mock01 - Stopped auto-capture for camera usb:mock01
+2025-04-17 11:15:33,658 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0005.jpg
+2025-04-17 11:15:34,164 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0005_111533.jpg
+2025-04-17 11:21:26,011 - INFO - MainThread - Logging initialized.
+2025-04-17 11:21:26,012 - INFO - MainThread - Created format directories in captures/2025-04-17/
+2025-04-17 11:21:26,012 - INFO - MainThread - Running in offscreen mode
+2025-04-17 11:21:26,017 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:21:26,017 - INFO - MainThread - Format organization enabled
+2025-04-17 11:21:26,017 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:21:26,018 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:21:26,018 - INFO - MainThread - Using mock tethered shooting manager
+2025-04-17 11:21:26,072 - INFO - MainThread - Added mock camera to tethered panel: Canon EOS 5D Mark IV at usb:mock01
+2025-04-17 11:21:26,073 - INFO - MainThread - Added mock camera to tethered panel: Sony Alpha a7 III at usb:mock02
+2025-04-17 11:21:26,074 - INFO - MainThread - Added mock camera to tethered panel: Nikon Z6 II at usb:mock03
+2025-04-17 11:21:27,076 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock01
+2025-04-17 11:21:27,083 - INFO - mock-tether-monitor-usb:mock01 - Started mock file monitoring for camera usb:mock01
+2025-04-17 11:21:27,084 - INFO - mock-tether-downloader-usb:mock01 - Started download processor for camera usb:mock01
+2025-04-17 11:21:27,084 - INFO - MainThread - Started tethering for camera usb:mock01
+2025-04-17 11:21:27,087 - INFO - MainThread - Auto-started tethering for camera at usb:mock01
+2025-04-17 11:21:27,087 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock02
+2025-04-17 11:21:27,087 - INFO - mock-tether-monitor-usb:mock02 - Started mock file monitoring for camera usb:mock02
+2025-04-17 11:21:27,088 - INFO - mock-tether-downloader-usb:mock02 - Started download processor for camera usb:mock02
+2025-04-17 11:21:27,088 - INFO - MainThread - Started tethering for camera usb:mock02
+2025-04-17 11:21:27,089 - INFO - MainThread - Auto-started tethering for camera at usb:mock02
+2025-04-17 11:21:27,089 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock03
+2025-04-17 11:21:27,090 - INFO - mock-tether-monitor-usb:mock03 - Started mock file monitoring for camera usb:mock03
+2025-04-17 11:21:27,091 - INFO - mock-tether-downloader-usb:mock03 - Started download processor for camera usb:mock03
+2025-04-17 11:21:27,092 - INFO - MainThread - Started tethering for camera usb:mock03
+2025-04-17 11:21:27,093 - INFO - MainThread - Auto-started tethering for camera at usb:mock03
+2025-04-17 11:21:27,975 - INFO - MainThread - Starting auto-capture for camera usb:mock01 with interval 3.0s
+2025-04-17 11:21:27,976 - INFO - auto-capture-usb:mock01 - Started auto-capture for camera usb:mock01
+2025-04-17 11:21:27,976 - INFO - MainThread - Started auto-capture for camera at usb:mock01
+2025-04-17 11:21:28,087 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0001.raw
+2025-04-17 11:21:28,623 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0001_112128.raw
+2025-04-17 11:21:31,088 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0002.raw
+2025-04-17 11:21:31,606 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0002_112131.raw
+2025-04-17 11:21:34,089 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0003.jpg
+2025-04-17 11:21:34,598 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0003_112134.jpg
+2025-04-17 11:21:37,090 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0004.raw
+2025-04-17 11:21:37,602 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0004_112137.raw
+2025-04-17 11:21:39,977 - INFO - auto-capture-usb:mock01 - Auto-capture for camera usb:mock01 completed 5 captures
+2025-04-17 11:21:39,977 - INFO - auto-capture-usb:mock01 - Stopped auto-capture for camera usb:mock01
+2025-04-17 11:21:40,091 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0005.jpg
+2025-04-17 11:21:40,598 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0005_112140.jpg
+2025-04-17 11:22:56,243 - INFO - MainThread - Logging initialized.
+2025-04-17 11:22:56,243 - INFO - MainThread - Created format directories in captures/2025-04-17/
+2025-04-17 11:22:56,244 - INFO - MainThread - Running in offscreen mode
+2025-04-17 11:22:56,247 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:22:56,247 - INFO - MainThread - Format organization enabled
+2025-04-17 11:22:56,248 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:22:56,248 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:22:56,248 - INFO - MainThread - Using mock tethered shooting manager
+2025-04-17 11:22:56,290 - INFO - MainThread - Added mock camera to tethered panel: Canon EOS 5D Mark IV at usb:mock01
+2025-04-17 11:22:56,291 - INFO - MainThread - Added mock camera to tethered panel: Sony Alpha a7 III at usb:mock02
+2025-04-17 11:22:56,292 - INFO - MainThread - Added mock camera to tethered panel: Nikon Z6 II at usb:mock03
+2025-04-17 11:22:57,294 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock01
+2025-04-17 11:22:57,294 - INFO - mock-tether-monitor-usb:mock01 - Started mock file monitoring for camera usb:mock01
+2025-04-17 11:22:57,295 - INFO - mock-tether-downloader-usb:mock01 - Started download processor for camera usb:mock01
+2025-04-17 11:22:57,295 - INFO - MainThread - Started tethering for camera usb:mock01
+2025-04-17 11:22:57,296 - INFO - MainThread - Auto-started tethering for camera at usb:mock01
+2025-04-17 11:22:57,296 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock02
+2025-04-17 11:22:57,297 - INFO - mock-tether-monitor-usb:mock02 - Started mock file monitoring for camera usb:mock02
+2025-04-17 11:22:57,297 - INFO - mock-tether-downloader-usb:mock02 - Started download processor for camera usb:mock02
+2025-04-17 11:22:57,298 - INFO - MainThread - Started tethering for camera usb:mock02
+2025-04-17 11:22:57,298 - INFO - MainThread - Auto-started tethering for camera at usb:mock02
+2025-04-17 11:22:57,298 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock03
+2025-04-17 11:22:57,298 - INFO - mock-tether-monitor-usb:mock03 - Started mock file monitoring for camera usb:mock03
+2025-04-17 11:22:57,299 - INFO - mock-tether-downloader-usb:mock03 - Started download processor for camera usb:mock03
+2025-04-17 11:22:57,300 - INFO - MainThread - Started tethering for camera usb:mock03
+2025-04-17 11:22:57,300 - INFO - MainThread - Auto-started tethering for camera at usb:mock03
+2025-04-17 11:22:58,392 - INFO - MainThread - Starting auto-capture for camera usb:mock01 with interval 3.0s
+2025-04-17 11:22:58,393 - INFO - auto-capture-usb:mock01 - Started auto-capture for camera usb:mock01
+2025-04-17 11:22:58,393 - INFO - MainThread - Started auto-capture for camera at usb:mock01
+2025-04-17 11:22:58,796 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0001.tif
+2025-04-17 11:22:59,339 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/TIFF/IMG_0001_112258.tif
+2025-04-17 11:23:01,797 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0002.tif
+2025-04-17 11:23:02,312 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/TIFF/IMG_0002_112301.tif
+2025-04-17 11:23:04,798 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0003.jpg
+2025-04-17 11:23:05,308 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0003_112304.jpg
+2025-04-17 11:23:07,799 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0004.tif
+2025-04-17 11:23:08,317 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/TIFF/IMG_0004_112307.tif
+2025-04-17 11:23:10,394 - INFO - auto-capture-usb:mock01 - Auto-capture for camera usb:mock01 completed 5 captures
+2025-04-17 11:23:10,394 - INFO - auto-capture-usb:mock01 - Stopped auto-capture for camera usb:mock01
+2025-04-17 11:23:10,800 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0005.raw
+2025-04-17 11:23:11,311 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0005_112310.raw
+2025-04-17 11:25:19,745 - INFO - MainThread - Logging initialized.
+2025-04-17 11:25:19,745 - INFO - MainThread - Created format directories in captures/2025-04-17/
+2025-04-17 11:25:19,746 - INFO - MainThread - Running in offscreen mode
+2025-04-17 11:25:19,749 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:25:19,749 - INFO - MainThread - Format organization enabled
+2025-04-17 11:25:19,750 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:25:19,750 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:25:19,750 - INFO - MainThread - Using mock tethered shooting manager
+2025-04-17 11:25:19,803 - INFO - MainThread - Added mock camera to tethered panel: Canon EOS 5D Mark IV at usb:mock01
+2025-04-17 11:25:19,804 - INFO - MainThread - Added mock camera to tethered panel: Sony Alpha a7 III at usb:mock02
+2025-04-17 11:25:19,805 - INFO - MainThread - Added mock camera to tethered panel: Nikon Z6 II at usb:mock03
+2025-04-17 11:25:20,807 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock01
+2025-04-17 11:25:20,808 - INFO - mock-tether-monitor-usb:mock01 - Started mock file monitoring for camera usb:mock01
+2025-04-17 11:25:20,809 - INFO - mock-tether-downloader-usb:mock01 - Started download processor for camera usb:mock01
+2025-04-17 11:25:20,809 - INFO - MainThread - Started tethering for camera usb:mock01
+2025-04-17 11:25:20,810 - INFO - MainThread - Auto-started tethering for camera at usb:mock01
+2025-04-17 11:25:20,810 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock02
+2025-04-17 11:25:20,810 - INFO - mock-tether-monitor-usb:mock02 - Started mock file monitoring for camera usb:mock02
+2025-04-17 11:25:20,811 - INFO - mock-tether-downloader-usb:mock02 - Started download processor for camera usb:mock02
+2025-04-17 11:25:20,812 - INFO - MainThread - Started tethering for camera usb:mock02
+2025-04-17 11:25:20,812 - INFO - MainThread - Auto-started tethering for camera at usb:mock02
+2025-04-17 11:25:20,812 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock03
+2025-04-17 11:25:20,813 - INFO - mock-tether-monitor-usb:mock03 - Started mock file monitoring for camera usb:mock03
+2025-04-17 11:25:20,814 - INFO - mock-tether-downloader-usb:mock03 - Started download processor for camera usb:mock03
+2025-04-17 11:25:20,815 - INFO - MainThread - Started tethering for camera usb:mock03
+2025-04-17 11:25:20,815 - INFO - MainThread - Auto-started tethering for camera at usb:mock03
+2025-04-17 11:25:21,892 - INFO - MainThread - Starting auto-capture for camera usb:mock01 with interval 3.0s
+2025-04-17 11:25:21,892 - INFO - auto-capture-usb:mock01 - Started auto-capture for camera usb:mock01
+2025-04-17 11:25:21,892 - INFO - MainThread - Started auto-capture for camera at usb:mock01
+2025-04-17 11:25:22,310 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0001.raw
+2025-04-17 11:25:22,853 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0001_112522.raw
+2025-04-17 11:25:25,311 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0002.tif
+2025-04-17 11:25:25,846 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/TIFF/IMG_0002_112525.tif
+2025-04-17 11:25:28,312 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0003.tif
+2025-04-17 11:25:28,820 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/TIFF/IMG_0003_112528.tif
+2025-04-17 11:25:31,314 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0004.jpg
+2025-04-17 11:25:31,828 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0004_112531.jpg
+2025-04-17 11:25:33,893 - INFO - auto-capture-usb:mock01 - Auto-capture for camera usb:mock01 completed 5 captures
+2025-04-17 11:25:33,893 - INFO - auto-capture-usb:mock01 - Stopped auto-capture for camera usb:mock01
+2025-04-17 11:25:34,315 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0005.raw
+2025-04-17 11:25:34,825 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0005_112534.raw
+2025-04-17 11:38:46,131 - INFO - MainThread - Logging initialized.
+2025-04-17 11:38:46,133 - INFO - MainThread - Created format directories in captures/2025-04-17/
+2025-04-17 11:38:46,133 - INFO - MainThread - Running in offscreen mode
+2025-04-17 11:38:46,138 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:38:46,138 - INFO - MainThread - Format organization enabled
+2025-04-17 11:38:46,139 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:38:46,139 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:38:46,139 - INFO - MainThread - Using mock tethered shooting manager
+2025-04-17 11:38:46,197 - INFO - MainThread - Added mock camera to tethered panel: Canon EOS 5D Mark IV at usb:mock01
+2025-04-17 11:38:46,198 - INFO - MainThread - Added mock camera to tethered panel: Sony Alpha a7 III at usb:mock02
+2025-04-17 11:38:46,199 - INFO - MainThread - Added mock camera to tethered panel: Nikon Z6 II at usb:mock03
+2025-04-17 11:38:47,201 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock01
+2025-04-17 11:38:47,201 - INFO - mock-tether-monitor-usb:mock01 - Started mock file monitoring for camera usb:mock01
+2025-04-17 11:38:47,203 - INFO - mock-tether-downloader-usb:mock01 - Started download processor for camera usb:mock01
+2025-04-17 11:38:47,204 - INFO - MainThread - Started tethering for camera usb:mock01
+2025-04-17 11:38:47,204 - INFO - MainThread - Auto-started tethering for camera at usb:mock01
+2025-04-17 11:38:47,205 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock02
+2025-04-17 11:38:47,205 - INFO - mock-tether-monitor-usb:mock02 - Started mock file monitoring for camera usb:mock02
+2025-04-17 11:38:47,206 - INFO - mock-tether-downloader-usb:mock02 - Started download processor for camera usb:mock02
+2025-04-17 11:38:47,206 - INFO - MainThread - Started tethering for camera usb:mock02
+2025-04-17 11:38:47,207 - INFO - MainThread - Auto-started tethering for camera at usb:mock02
+2025-04-17 11:38:47,207 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock03
+2025-04-17 11:38:47,207 - INFO - mock-tether-monitor-usb:mock03 - Started mock file monitoring for camera usb:mock03
+2025-04-17 11:38:47,208 - INFO - mock-tether-downloader-usb:mock03 - Started download processor for camera usb:mock03
+2025-04-17 11:38:47,208 - INFO - MainThread - Started tethering for camera usb:mock03
+2025-04-17 11:38:47,208 - INFO - MainThread - Auto-started tethering for camera at usb:mock03
+2025-04-17 11:38:48,302 - INFO - MainThread - Starting auto-capture for camera usb:mock01 with interval 3.0s
+2025-04-17 11:38:48,302 - INFO - auto-capture-usb:mock01 - Started auto-capture for camera usb:mock01
+2025-04-17 11:38:48,303 - INFO - MainThread - Started auto-capture for camera at usb:mock01
+2025-04-17 11:38:48,720 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0001.raw
+2025-04-17 11:38:49,247 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0001_113848.raw
+2025-04-17 11:38:51,706 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0002.raw
+2025-04-17 11:38:52,223 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0002_113851.raw
+2025-04-17 11:38:54,707 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0003.raw
+2025-04-17 11:38:55,213 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0003_113854.raw
+2025-04-17 11:38:57,708 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0004.jpg
+2025-04-17 11:38:58,268 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0004_113857.jpg
+2025-04-17 11:39:00,303 - INFO - auto-capture-usb:mock01 - Auto-capture for camera usb:mock01 completed 5 captures
+2025-04-17 11:39:00,304 - INFO - auto-capture-usb:mock01 - Stopped auto-capture for camera usb:mock01
+2025-04-17 11:39:00,709 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0005.tif
+2025-04-17 11:39:01,252 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/TIFF/IMG_0005_113900.tif
+2025-04-17 11:49:57,256 - INFO - MainThread - Logging initialized.
+2025-04-17 11:49:57,256 - INFO - MainThread - Created format directories in captures/2025-04-17/
+2025-04-17 11:49:57,256 - INFO - MainThread - Running in offscreen mode
+2025-04-17 11:49:57,261 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:49:57,261 - INFO - MainThread - Format organization enabled
+2025-04-17 11:49:57,261 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:49:57,261 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:49:57,262 - INFO - MainThread - Using mock tethered shooting manager
+2025-04-17 11:49:57,305 - INFO - MainThread - Added mock camera to tethered panel: Canon EOS 5D Mark IV at usb:mock01
+2025-04-17 11:49:57,309 - INFO - MainThread - Added mock camera to tethered panel: Sony Alpha a7 III at usb:mock02
+2025-04-17 11:49:57,310 - INFO - MainThread - Added mock camera to tethered panel: Nikon Z6 II at usb:mock03
+2025-04-17 11:49:58,311 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock01
+2025-04-17 11:49:58,312 - INFO - mock-tether-monitor-usb:mock01 - Started mock file monitoring for camera usb:mock01
+2025-04-17 11:49:58,312 - INFO - mock-tether-downloader-usb:mock01 - Started download processor for camera usb:mock01
+2025-04-17 11:49:58,313 - INFO - MainThread - Started tethering for camera usb:mock01
+2025-04-17 11:49:58,313 - INFO - MainThread - Auto-started tethering for camera at usb:mock01
+2025-04-17 11:49:58,313 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock02
+2025-04-17 11:49:58,314 - INFO - mock-tether-monitor-usb:mock02 - Started mock file monitoring for camera usb:mock02
+2025-04-17 11:49:58,314 - INFO - mock-tether-downloader-usb:mock02 - Started download processor for camera usb:mock02
+2025-04-17 11:49:58,315 - INFO - MainThread - Started tethering for camera usb:mock02
+2025-04-17 11:49:58,315 - INFO - MainThread - Auto-started tethering for camera at usb:mock02
+2025-04-17 11:49:58,315 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock03
+2025-04-17 11:49:58,315 - INFO - mock-tether-monitor-usb:mock03 - Started mock file monitoring for camera usb:mock03
+2025-04-17 11:49:58,316 - INFO - mock-tether-downloader-usb:mock03 - Started download processor for camera usb:mock03
+2025-04-17 11:49:58,316 - INFO - MainThread - Started tethering for camera usb:mock03
+2025-04-17 11:49:58,317 - INFO - MainThread - Auto-started tethering for camera at usb:mock03
+2025-04-17 11:49:59,392 - INFO - MainThread - Starting auto-capture for camera usb:mock01 with interval 3.0s
+2025-04-17 11:49:59,392 - INFO - auto-capture-usb:mock01 - Started auto-capture for camera usb:mock01
+2025-04-17 11:49:59,392 - INFO - MainThread - Started auto-capture for camera at usb:mock01
+2025-04-17 11:49:59,813 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0001.jpg
+2025-04-17 11:50:00,358 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0001_114959.jpg
+2025-04-17 11:50:02,813 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0002.tif
+2025-04-17 11:50:03,347 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/TIFF/IMG_0002_115002.tif
+2025-04-17 11:50:05,814 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0003.jpg
+2025-04-17 11:50:06,328 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0003_115005.jpg
+2025-04-17 11:50:08,815 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0004.raw
+2025-04-17 11:50:09,326 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0004_115008.raw
+2025-04-17 11:50:11,393 - INFO - auto-capture-usb:mock01 - Auto-capture for camera usb:mock01 completed 5 captures
+2025-04-17 11:50:11,393 - INFO - auto-capture-usb:mock01 - Stopped auto-capture for camera usb:mock01
+2025-04-17 11:50:11,816 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0005.jpg
+2025-04-17 11:50:12,339 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/JPEG/IMG_0005_115011.jpg
+2025-04-17 11:51:33,123 - INFO - MainThread - Logging initialized.
+2025-04-17 11:51:33,124 - INFO - MainThread - Created format directories in captures/2025-04-17/
+2025-04-17 11:51:33,124 - INFO - MainThread - Running in offscreen mode
+2025-04-17 11:51:33,128 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:51:33,128 - INFO - MainThread - Format organization enabled
+2025-04-17 11:51:33,128 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:51:33,128 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:51:33,129 - INFO - MainThread - Using mock tethered shooting manager
+2025-04-17 11:51:33,170 - INFO - MainThread - Added mock camera to tethered panel: Canon EOS 5D Mark IV at usb:mock01
+2025-04-17 11:51:33,171 - INFO - MainThread - Added mock camera to tethered panel: Sony Alpha a7 III at usb:mock02
+2025-04-17 11:51:33,172 - INFO - MainThread - Added mock camera to tethered panel: Nikon Z6 II at usb:mock03
+2025-04-17 11:51:34,173 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock01
+2025-04-17 11:51:34,174 - INFO - mock-tether-monitor-usb:mock01 - Started mock file monitoring for camera usb:mock01
+2025-04-17 11:51:34,175 - INFO - mock-tether-downloader-usb:mock01 - Started download processor for camera usb:mock01
+2025-04-17 11:51:34,175 - INFO - MainThread - Started tethering for camera usb:mock01
+2025-04-17 11:51:34,176 - INFO - MainThread - Auto-started tethering for camera at usb:mock01
+2025-04-17 11:51:34,176 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock02
+2025-04-17 11:51:34,176 - INFO - mock-tether-monitor-usb:mock02 - Started mock file monitoring for camera usb:mock02
+2025-04-17 11:51:34,176 - INFO - mock-tether-downloader-usb:mock02 - Started download processor for camera usb:mock02
+2025-04-17 11:51:34,177 - INFO - MainThread - Started tethering for camera usb:mock02
+2025-04-17 11:51:34,177 - INFO - MainThread - Auto-started tethering for camera at usb:mock02
+2025-04-17 11:51:34,177 - INFO - MainThread - Starting mock tethered shooting for camera usb:mock03
+2025-04-17 11:51:34,177 - INFO - mock-tether-monitor-usb:mock03 - Started mock file monitoring for camera usb:mock03
+2025-04-17 11:51:34,178 - INFO - mock-tether-downloader-usb:mock03 - Started download processor for camera usb:mock03
+2025-04-17 11:51:34,178 - INFO - MainThread - Started tethering for camera usb:mock03
+2025-04-17 11:51:34,178 - INFO - MainThread - Auto-started tethering for camera at usb:mock03
+2025-04-17 11:51:35,273 - INFO - MainThread - Starting auto-capture for camera usb:mock01 with interval 3.0s
+2025-04-17 11:51:35,273 - INFO - auto-capture-usb:mock01 - Started auto-capture for camera usb:mock01
+2025-04-17 11:51:35,273 - INFO - MainThread - Started auto-capture for camera at usb:mock01
+2025-04-17 11:51:35,675 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0001.raw
+2025-04-17 11:51:36,190 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0001_115135.raw
+2025-04-17 11:51:38,676 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0002.tif
+2025-04-17 11:51:39,212 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/TIFF/IMG_0002_115138.tif
+2025-04-17 11:51:41,678 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0003.raw
+2025-04-17 11:51:42,194 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0003_115141.raw
+2025-04-17 11:51:44,678 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0004.raw
+2025-04-17 11:51:45,192 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/RAW/IMG_0004_115144.raw
+2025-04-17 11:51:47,274 - INFO - auto-capture-usb:mock01 - Auto-capture for camera usb:mock01 completed 5 captures
+2025-04-17 11:51:47,274 - INFO - auto-capture-usb:mock01 - Stopped auto-capture for camera usb:mock01
+2025-04-17 11:51:47,679 - INFO - MainThread - New file detected on camera usb:mock01: /store_00010001/DCIM/100ck01/IMG_0005.tif
+2025-04-17 11:51:48,191 - INFO - mock-tether-downloader-usb:mock01 - Generated mock image at captures/2025-04-17/TIFF/IMG_0005_115147.tif

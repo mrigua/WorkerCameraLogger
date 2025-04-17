@@ -1,0 +1,9 @@
+{
+  "name": "Indoor Low Light",
+  "description": "Settings for indoor low light conditions",
+  "settings": {
+    "iso": "800",
+    "aperture": "f/2.8",
+    "shutter_speed": "1/60"
+  }
+}

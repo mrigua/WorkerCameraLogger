@@ -1,0 +1,9 @@
+{
+  "name": "Outdoor Sunny",
+  "description": "Settings for bright outdoor conditions",
+  "settings": {
+    "iso": "100",
+    "aperture": "f/8",
+    "shutter_speed": "1/500"
+  }
+}

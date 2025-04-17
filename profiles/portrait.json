@@ -1,0 +1,9 @@
+{
+  "name": "Portrait",
+  "description": "Shallow depth of field for portrait photography",
+  "settings": {
+    "iso": "200",
+    "aperture": "f/2.8",
+    "shutter_speed": "1/250"
+  }
+}

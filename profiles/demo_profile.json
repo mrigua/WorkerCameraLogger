@@ -1,0 +1,9 @@
+{
+  "name": "Demo Profile",
+  "description": "Demo profile created for testing",
+  "settings": {
+    "iso": "800",
+    "aperture": "f/2.8",
+    "shutter_speed": "1/500"
+  }
+}

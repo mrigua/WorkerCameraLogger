@@ -1,0 +1,9 @@
+{
+  "name": "Landscape",
+  "description": "Maximum depth of field for landscape photography",
+  "settings": {
+    "iso": "100",
+    "aperture": "f/11",
+    "shutter_speed": "1/125"
+  }
+}

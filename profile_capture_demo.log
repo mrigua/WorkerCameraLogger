@@ -1,0 +1,600 @@
+2025-04-17 09:51:13,391 - INFO - MainThread - Created mock camera: Canon Z6 Mark IV at usb:mock01
+2025-04-17 09:51:13,392 - INFO - MainThread - Created mock camera: Canon X-T4 Mark III at usb:mock02
+2025-04-17 09:51:13,392 - INFO - MainThread - Created mock camera: Fujifilm X-T4 Mark II at usb:mock03
+2025-04-17 09:51:13,392 - INFO - MainThread - Format organizer initialized
+2025-04-17 09:51:13,392 - INFO - MainThread - Organize by format: enabled
+2025-04-17 09:51:13,393 - INFO - MainThread - Format organization enabled
+2025-04-17 09:51:13,393 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 09:51:13,393 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 09:51:13,394 - INFO - MainThread - Created new profile: Demo Profile
+2025-04-17 09:51:13,394 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 09:51:13,394 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 09:51:13,394 - INFO - MainThread - Applying profile 'Demo Profile' to 3 cameras
+2025-04-17 09:51:13,394 - ERROR - MainThread - Cannot set setting 'iso', config name not resolved for port usb:mock01
+2025-04-17 09:52:15,945 - INFO - MainThread - Created mock camera: Olympus X-T4 Mark IV at usb:mock01
+2025-04-17 09:52:15,946 - INFO - MainThread - Created mock camera: Sony 5D Pro at usb:mock02
+2025-04-17 09:52:15,946 - INFO - MainThread - Created mock camera: Sony X-T4 Mark II at usb:mock03
+2025-04-17 09:52:15,946 - INFO - MainThread - Format organizer initialized
+2025-04-17 09:52:15,947 - INFO - MainThread - Organize by format: enabled
+2025-04-17 09:52:15,947 - INFO - MainThread - Format organization enabled
+2025-04-17 09:52:15,947 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 09:52:15,947 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 09:52:15,947 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 09:52:15,947 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 09:52:15,947 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 09:52:15,948 - INFO - MainThread - Applying profile 'Demo Profile' to 3 cameras
+2025-04-17 09:52:15,948 - ERROR - MainThread - Cannot set setting 'iso', config name not resolved for port usb:mock01
+2025-04-17 09:52:15,948 - ERROR - MainThread - Cannot set setting 'aperture', config name not resolved for port usb:mock01
+2025-04-17 09:52:15,948 - ERROR - MainThread - Cannot set setting 'shutterspeed', config name not resolved for port usb:mock01
+2025-04-17 09:52:15,948 - ERROR - MainThread - Cannot set setting 'iso', config name not resolved for port usb:mock02
+2025-04-17 09:52:15,948 - ERROR - MainThread - Cannot set setting 'aperture', config name not resolved for port usb:mock02
+2025-04-17 09:52:15,948 - ERROR - MainThread - Cannot set setting 'shutterspeed', config name not resolved for port usb:mock02
+2025-04-17 09:52:15,948 - ERROR - MainThread - Cannot set setting 'iso', config name not resolved for port usb:mock03
+2025-04-17 09:52:15,948 - ERROR - MainThread - Cannot set setting 'aperture', config name not resolved for port usb:mock03
+2025-04-17 09:52:15,949 - ERROR - MainThread - Cannot set setting 'shutterspeed', config name not resolved for port usb:mock03
+2025-04-17 09:52:15,949 - ERROR - MainThread - No cameras successfully applied the profile
+2025-04-17 09:52:15,949 - INFO - MainThread - Capture complete: 0/3 successful
+2025-04-17 09:52:15,949 - ERROR - MainThread - Camera usb:mock01: Capture failed
+2025-04-17 09:52:15,949 - ERROR - MainThread - Camera usb:mock02: Capture failed
+2025-04-17 09:52:15,949 - ERROR - MainThread - Camera usb:mock03: Capture failed
+2025-04-17 09:53:07,579 - INFO - MainThread - Created mock camera: Olympus A7 Mark II at usb:mock01
+2025-04-17 09:53:07,581 - INFO - MainThread - Created mock camera: Nikon X-T4 Mark IV at usb:mock02
+2025-04-17 09:53:07,581 - INFO - MainThread - Created mock camera: Olympus Z6 Mark II at usb:mock03
+2025-04-17 09:53:07,581 - INFO - MainThread - Format organizer initialized
+2025-04-17 09:53:07,581 - INFO - MainThread - Organize by format: enabled
+2025-04-17 09:53:07,581 - INFO - MainThread - Format organization enabled
+2025-04-17 09:53:07,581 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 09:53:07,581 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 09:53:07,582 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 09:53:07,582 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 09:53:07,582 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 09:53:07,582 - INFO - MainThread - Applying profile settings to Olympus A7 Mark II at usb:mock01
+2025-04-17 09:53:07,582 - INFO - MainThread - Set ISO to 800
+2025-04-17 09:53:07,582 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 09:53:07,582 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 09:53:07,582 - INFO - MainThread - Capturing image from Olympus A7 Mark II
+2025-04-17 09:53:09,027 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_095308.jpg
+2025-04-17 09:53:09,027 - INFO - MainThread - Applying profile settings to Nikon X-T4 Mark IV at usb:mock02
+2025-04-17 09:53:09,028 - INFO - MainThread - Set ISO to 800
+2025-04-17 09:53:09,028 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 09:53:09,028 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 09:53:09,028 - INFO - MainThread - Capturing image from Nikon X-T4 Mark IV
+2025-04-17 09:53:09,721 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_095309.jpg
+2025-04-17 09:53:09,721 - INFO - MainThread - Applying profile settings to Olympus Z6 Mark II at usb:mock03
+2025-04-17 09:53:09,721 - INFO - MainThread - Set ISO to 800
+2025-04-17 09:53:09,721 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 09:53:09,721 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 09:53:09,722 - INFO - MainThread - Capturing image from Olympus Z6 Mark II
+2025-04-17 09:53:10,431 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_095310.jpg
+2025-04-17 09:53:10,432 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 09:53:10,433 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_095308.jpg
+2025-04-17 09:53:10,433 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_095309.jpg
+2025-04-17 09:53:10,433 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_095310.jpg
+2025-04-17 09:53:31,377 - INFO - MainThread - Created mock camera: Nikon X-T4 Mark II at usb:mock01
+2025-04-17 09:53:31,377 - INFO - MainThread - Created mock camera: Fujifilm A7 Mark III at usb:mock02
+2025-04-17 09:53:31,377 - INFO - MainThread - Created mock camera: Olympus Z6 at usb:mock03
+2025-04-17 09:53:31,377 - INFO - MainThread - Format organizer initialized
+2025-04-17 09:53:31,387 - INFO - MainThread - Organize by format: enabled
+2025-04-17 09:53:31,387 - INFO - MainThread - Format organization enabled
+2025-04-17 09:53:31,388 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 09:53:31,388 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 09:53:31,388 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 09:53:31,388 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 09:53:31,388 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 09:53:31,388 - INFO - MainThread - Applying profile settings to Nikon X-T4 Mark II at usb:mock01
+2025-04-17 09:53:31,389 - INFO - MainThread - Set ISO to 800
+2025-04-17 09:53:31,390 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 09:53:31,391 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 09:53:31,391 - INFO - MainThread - Capturing image from Nikon X-T4 Mark II
+2025-04-17 09:53:32,298 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_095332.jpg
+2025-04-17 09:53:32,298 - INFO - MainThread - Applying profile settings to Fujifilm A7 Mark III at usb:mock02
+2025-04-17 09:53:32,298 - INFO - MainThread - Set ISO to 800
+2025-04-17 09:53:32,298 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 09:53:32,299 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 09:53:32,299 - INFO - MainThread - Capturing image from Fujifilm A7 Mark III
+2025-04-17 09:53:33,387 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_095333.jpg
+2025-04-17 09:53:33,387 - INFO - MainThread - Applying profile settings to Olympus Z6 at usb:mock03
+2025-04-17 09:53:33,387 - INFO - MainThread - Set ISO to 800
+2025-04-17 09:53:33,387 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 09:53:33,387 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 09:53:33,387 - INFO - MainThread - Capturing image from Olympus Z6
+2025-04-17 09:53:34,804 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_095334.jpg
+2025-04-17 09:53:34,805 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 09:53:34,805 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_095332.jpg
+2025-04-17 09:53:34,805 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_095333.jpg
+2025-04-17 09:53:34,805 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_095334.jpg
+2025-04-17 10:06:53,821 - INFO - MainThread - Created mock camera: Olympus Z6 at usb:mock01
+2025-04-17 10:06:53,822 - INFO - MainThread - Created mock camera: Fujifilm Z6 Mark IV at usb:mock02
+2025-04-17 10:06:53,822 - INFO - MainThread - Created mock camera: Fujifilm A7 Pro at usb:mock03
+2025-04-17 10:06:53,822 - INFO - MainThread - Format organizer initialized
+2025-04-17 10:06:53,822 - INFO - MainThread - Organize by format: enabled
+2025-04-17 10:06:53,822 - INFO - MainThread - Format organization enabled
+2025-04-17 10:06:53,822 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:06:53,822 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:06:53,822 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 10:06:53,823 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 10:06:53,823 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 10:06:53,823 - INFO - MainThread - Applying profile settings to Olympus Z6 at usb:mock01
+2025-04-17 10:06:53,823 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:06:53,823 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:06:53,823 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:06:53,823 - INFO - MainThread - Capturing image from Olympus Z6
+2025-04-17 10:06:54,350 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_100654.jpg
+2025-04-17 10:06:54,351 - INFO - MainThread - Applying profile settings to Fujifilm Z6 Mark IV at usb:mock02
+2025-04-17 10:06:54,351 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:06:54,351 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:06:54,351 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:06:54,351 - INFO - MainThread - Capturing image from Fujifilm Z6 Mark IV
+2025-04-17 10:06:55,750 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_100655.jpg
+2025-04-17 10:06:55,750 - INFO - MainThread - Applying profile settings to Fujifilm A7 Pro at usb:mock03
+2025-04-17 10:06:55,750 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:06:55,750 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:06:55,750 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:06:55,750 - INFO - MainThread - Capturing image from Fujifilm A7 Pro
+2025-04-17 10:06:56,309 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_100656.jpg
+2025-04-17 10:06:56,309 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 10:06:56,309 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_100654.jpg
+2025-04-17 10:06:56,309 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_100655.jpg
+2025-04-17 10:06:56,310 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_100656.jpg
+2025-04-17 10:10:27,100 - INFO - MainThread - Created mock camera: Canon X-T4 Mark II at usb:mock01
+2025-04-17 10:10:27,101 - INFO - MainThread - Created mock camera: Olympus X-T4 Mark II at usb:mock02
+2025-04-17 10:10:27,101 - INFO - MainThread - Created mock camera: Sony Z6 Mark III at usb:mock03
+2025-04-17 10:10:27,101 - INFO - MainThread - Format organizer initialized
+2025-04-17 10:10:27,102 - INFO - MainThread - Organize by format: enabled
+2025-04-17 10:10:27,102 - INFO - MainThread - Format organization enabled
+2025-04-17 10:10:27,102 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:10:27,102 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:10:27,102 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 10:10:27,102 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 10:10:27,102 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 10:10:27,103 - INFO - MainThread - Applying profile settings to Canon X-T4 Mark II at usb:mock01
+2025-04-17 10:10:27,103 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:10:27,103 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:10:27,103 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:10:27,103 - INFO - MainThread - Capturing image from Canon X-T4 Mark II
+2025-04-17 10:10:28,163 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_101028.jpg
+2025-04-17 10:10:28,165 - INFO - MainThread - Applying profile settings to Olympus X-T4 Mark II at usb:mock02
+2025-04-17 10:10:28,165 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:10:28,165 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:10:28,165 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:10:28,165 - INFO - MainThread - Capturing image from Olympus X-T4 Mark II
+2025-04-17 10:10:29,220 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_101029.jpg
+2025-04-17 10:10:29,221 - INFO - MainThread - Applying profile settings to Sony Z6 Mark III at usb:mock03
+2025-04-17 10:10:29,221 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:10:29,221 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:10:29,221 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:10:29,221 - INFO - MainThread - Capturing image from Sony Z6 Mark III
+2025-04-17 10:10:30,654 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_101030.jpg
+2025-04-17 10:10:30,654 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 10:10:30,654 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_101028.jpg
+2025-04-17 10:10:30,654 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_101029.jpg
+2025-04-17 10:10:30,657 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_101030.jpg
+2025-04-17 10:12:14,252 - INFO - MainThread - Created mock camera: Olympus E-M1 Mark IV at usb:mock01
+2025-04-17 10:12:14,252 - INFO - MainThread - Created mock camera: Canon E-M1 at usb:mock02
+2025-04-17 10:12:14,252 - INFO - MainThread - Created mock camera: Nikon 5D Pro at usb:mock03
+2025-04-17 10:12:14,252 - INFO - MainThread - Format organizer initialized
+2025-04-17 10:12:14,252 - INFO - MainThread - Organize by format: enabled
+2025-04-17 10:12:14,252 - INFO - MainThread - Format organization enabled
+2025-04-17 10:12:14,252 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:12:14,253 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:12:14,253 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 10:12:14,253 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 10:12:14,253 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 10:12:14,253 - INFO - MainThread - Applying profile settings to Olympus E-M1 Mark IV at usb:mock01
+2025-04-17 10:12:14,253 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:12:14,254 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:12:14,254 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:12:14,255 - INFO - MainThread - Capturing image from Olympus E-M1 Mark IV
+2025-04-17 10:12:15,199 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_101215.jpg
+2025-04-17 10:12:15,200 - INFO - MainThread - Applying profile settings to Canon E-M1 at usb:mock02
+2025-04-17 10:12:15,200 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:12:15,200 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:12:15,200 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:12:15,200 - INFO - MainThread - Capturing image from Canon E-M1
+2025-04-17 10:12:15,989 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_101215.jpg
+2025-04-17 10:12:15,990 - INFO - MainThread - Applying profile settings to Nikon 5D Pro at usb:mock03
+2025-04-17 10:12:15,990 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:12:15,990 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:12:15,990 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:12:15,990 - INFO - MainThread - Capturing image from Nikon 5D Pro
+2025-04-17 10:12:16,759 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_101216.jpg
+2025-04-17 10:12:16,759 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 10:12:16,759 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_101215.jpg
+2025-04-17 10:12:16,760 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_101215.jpg
+2025-04-17 10:12:16,760 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_101216.jpg
+2025-04-17 10:24:31,583 - INFO - MainThread - Created mock camera: Fujifilm X-T4 Mark III at usb:mock01
+2025-04-17 10:24:31,588 - INFO - MainThread - Created mock camera: Fujifilm X-T4 Mark III at usb:mock02
+2025-04-17 10:24:31,588 - INFO - MainThread - Created mock camera: Canon E-M1 Mark II at usb:mock03
+2025-04-17 10:24:31,589 - INFO - MainThread - Format organizer initialized
+2025-04-17 10:24:31,589 - INFO - MainThread - Organize by format: enabled
+2025-04-17 10:24:31,589 - INFO - MainThread - Format organization enabled
+2025-04-17 10:24:31,589 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:24:31,589 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:24:31,590 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 10:24:31,590 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 10:24:31,590 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 10:24:31,590 - INFO - MainThread - Applying profile settings to Fujifilm X-T4 Mark III at usb:mock01
+2025-04-17 10:24:31,590 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:24:31,590 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:24:31,590 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:24:31,591 - INFO - MainThread - Capturing image from Fujifilm X-T4 Mark III
+2025-04-17 10:24:32,307 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_102432.jpg
+2025-04-17 10:24:32,320 - INFO - MainThread - Applying profile settings to Fujifilm X-T4 Mark III at usb:mock02
+2025-04-17 10:24:32,322 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:24:32,322 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:24:32,322 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:24:32,322 - INFO - MainThread - Capturing image from Fujifilm X-T4 Mark III
+2025-04-17 10:24:33,767 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_102433.jpg
+2025-04-17 10:24:33,768 - INFO - MainThread - Applying profile settings to Canon E-M1 Mark II at usb:mock03
+2025-04-17 10:24:33,768 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:24:33,768 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:24:33,768 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:24:33,768 - INFO - MainThread - Capturing image from Canon E-M1 Mark II
+2025-04-17 10:24:34,844 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_102434.jpg
+2025-04-17 10:24:34,844 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 10:24:34,844 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_102432.jpg
+2025-04-17 10:24:34,844 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_102433.jpg
+2025-04-17 10:24:34,844 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_102434.jpg
+2025-04-17 10:37:12,957 - INFO - MainThread - Created mock camera: Canon 5D Mark II at usb:mock01
+2025-04-17 10:37:12,957 - INFO - MainThread - Created mock camera: Fujifilm A7 Mark III at usb:mock02
+2025-04-17 10:37:12,957 - INFO - MainThread - Created mock camera: Olympus Z6 Mark II at usb:mock03
+2025-04-17 10:37:12,958 - INFO - MainThread - Format organizer initialized
+2025-04-17 10:37:12,958 - INFO - MainThread - Organize by format: enabled
+2025-04-17 10:37:12,958 - INFO - MainThread - Format organization enabled
+2025-04-17 10:37:12,958 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:37:12,959 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:37:12,959 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 10:37:12,959 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 10:37:12,959 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 10:37:12,959 - INFO - MainThread - Applying profile settings to Canon 5D Mark II at usb:mock01
+2025-04-17 10:37:12,959 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:37:12,959 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:37:12,959 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:37:12,959 - INFO - MainThread - Capturing image from Canon 5D Mark II
+2025-04-17 10:37:14,129 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_103714.jpg
+2025-04-17 10:37:14,130 - INFO - MainThread - Applying profile settings to Fujifilm A7 Mark III at usb:mock02
+2025-04-17 10:37:14,131 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:37:14,131 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:37:14,131 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:37:14,131 - INFO - MainThread - Capturing image from Fujifilm A7 Mark III
+2025-04-17 10:37:15,031 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_103715.jpg
+2025-04-17 10:37:15,032 - INFO - MainThread - Applying profile settings to Olympus Z6 Mark II at usb:mock03
+2025-04-17 10:37:15,032 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:37:15,032 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:37:15,032 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:37:15,032 - INFO - MainThread - Capturing image from Olympus Z6 Mark II
+2025-04-17 10:37:15,933 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_103715.jpg
+2025-04-17 10:37:15,933 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 10:37:15,933 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_103714.jpg
+2025-04-17 10:37:15,933 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_103715.jpg
+2025-04-17 10:37:15,933 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_103715.jpg
+2025-04-17 10:39:01,440 - INFO - MainThread - Created mock camera: Fujifilm E-M1 Pro at usb:mock01
+2025-04-17 10:39:01,441 - INFO - MainThread - Created mock camera: Nikon A7 Mark III at usb:mock02
+2025-04-17 10:39:01,441 - INFO - MainThread - Created mock camera: Sony E-M1 Pro at usb:mock03
+2025-04-17 10:39:01,441 - INFO - MainThread - Format organizer initialized
+2025-04-17 10:39:01,441 - INFO - MainThread - Organize by format: enabled
+2025-04-17 10:39:01,442 - INFO - MainThread - Format organization enabled
+2025-04-17 10:39:01,442 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:39:01,442 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 10:39:01,442 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 10:39:01,443 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 10:39:01,443 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 10:39:01,443 - INFO - MainThread - Applying profile settings to Fujifilm E-M1 Pro at usb:mock01
+2025-04-17 10:39:01,443 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:39:01,443 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:39:01,444 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:39:01,444 - INFO - MainThread - Capturing image from Fujifilm E-M1 Pro
+2025-04-17 10:39:02,716 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_103902.jpg
+2025-04-17 10:39:02,717 - INFO - MainThread - Applying profile settings to Nikon A7 Mark III at usb:mock02
+2025-04-17 10:39:02,717 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:39:02,717 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:39:02,717 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:39:02,717 - INFO - MainThread - Capturing image from Nikon A7 Mark III
+2025-04-17 10:39:04,028 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_103904.jpg
+2025-04-17 10:39:04,028 - INFO - MainThread - Applying profile settings to Sony E-M1 Pro at usb:mock03
+2025-04-17 10:39:04,030 - INFO - MainThread - Set ISO to 800
+2025-04-17 10:39:04,030 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 10:39:04,030 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 10:39:04,030 - INFO - MainThread - Capturing image from Sony E-M1 Pro
+2025-04-17 10:39:04,740 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_103904.jpg
+2025-04-17 10:39:04,740 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 10:39:04,740 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_103902.jpg
+2025-04-17 10:39:04,740 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_103904.jpg
+2025-04-17 10:39:04,740 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_103904.jpg
+2025-04-17 11:05:12,872 - INFO - MainThread - Created mock camera: Canon E-M1 Mark III at usb:mock01
+2025-04-17 11:05:12,875 - INFO - MainThread - Created mock camera: Nikon E-M1 Mark IV at usb:mock02
+2025-04-17 11:05:12,876 - INFO - MainThread - Created mock camera: Nikon X-T4 Pro at usb:mock03
+2025-04-17 11:05:12,876 - INFO - MainThread - Format organizer initialized
+2025-04-17 11:05:12,876 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:05:12,877 - INFO - MainThread - Format organization enabled
+2025-04-17 11:05:12,877 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:05:12,877 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:05:12,877 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 11:05:12,877 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 11:05:12,878 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 11:05:12,878 - INFO - MainThread - Applying profile settings to Canon E-M1 Mark III at usb:mock01
+2025-04-17 11:05:12,878 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:05:12,878 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:05:12,878 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:05:12,878 - INFO - MainThread - Capturing image from Canon E-M1 Mark III
+2025-04-17 11:05:13,739 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_110513.jpg
+2025-04-17 11:05:13,741 - INFO - MainThread - Applying profile settings to Nikon E-M1 Mark IV at usb:mock02
+2025-04-17 11:05:13,741 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:05:13,741 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:05:13,741 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:05:13,742 - INFO - MainThread - Capturing image from Nikon E-M1 Mark IV
+2025-04-17 11:05:14,944 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_110514.jpg
+2025-04-17 11:05:14,944 - INFO - MainThread - Applying profile settings to Nikon X-T4 Pro at usb:mock03
+2025-04-17 11:05:14,944 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:05:14,944 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:05:14,944 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:05:14,945 - INFO - MainThread - Capturing image from Nikon X-T4 Pro
+2025-04-17 11:05:15,612 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_110515.jpg
+2025-04-17 11:05:15,612 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 11:05:15,612 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_110513.jpg
+2025-04-17 11:05:15,612 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_110514.jpg
+2025-04-17 11:05:15,612 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_110515.jpg
+2025-04-17 11:07:06,434 - INFO - MainThread - Created mock camera: Nikon 5D Mark II at usb:mock01
+2025-04-17 11:07:06,434 - INFO - MainThread - Created mock camera: Sony Z6 Pro at usb:mock02
+2025-04-17 11:07:06,434 - INFO - MainThread - Created mock camera: Canon Z6 Mark III at usb:mock03
+2025-04-17 11:07:06,434 - INFO - MainThread - Format organizer initialized
+2025-04-17 11:07:06,434 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:07:06,434 - INFO - MainThread - Format organization enabled
+2025-04-17 11:07:06,434 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:07:06,435 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:07:06,435 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 11:07:06,435 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 11:07:06,436 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 11:07:06,436 - INFO - MainThread - Applying profile settings to Nikon 5D Mark II at usb:mock01
+2025-04-17 11:07:06,436 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:07:06,436 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:07:06,436 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:07:06,436 - INFO - MainThread - Capturing image from Nikon 5D Mark II
+2025-04-17 11:07:07,943 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_110707.jpg
+2025-04-17 11:07:07,944 - INFO - MainThread - Applying profile settings to Sony Z6 Pro at usb:mock02
+2025-04-17 11:07:07,944 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:07:07,944 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:07:07,944 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:07:07,944 - INFO - MainThread - Capturing image from Sony Z6 Pro
+2025-04-17 11:07:08,759 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_110708.jpg
+2025-04-17 11:07:08,759 - INFO - MainThread - Applying profile settings to Canon Z6 Mark III at usb:mock03
+2025-04-17 11:07:08,759 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:07:08,759 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:07:08,759 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:07:08,760 - INFO - MainThread - Capturing image from Canon Z6 Mark III
+2025-04-17 11:07:09,422 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_110709.jpg
+2025-04-17 11:07:09,423 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 11:07:09,423 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_110707.jpg
+2025-04-17 11:07:09,423 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_110708.jpg
+2025-04-17 11:07:09,423 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_110709.jpg
+2025-04-17 11:15:18,659 - INFO - MainThread - Created mock camera: Nikon E-M1 Mark II at usb:mock01
+2025-04-17 11:15:18,666 - INFO - MainThread - Created mock camera: Canon 5D Mark III at usb:mock02
+2025-04-17 11:15:18,666 - INFO - MainThread - Created mock camera: Canon E-M1 Pro at usb:mock03
+2025-04-17 11:15:18,666 - INFO - MainThread - Format organizer initialized
+2025-04-17 11:15:18,666 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:15:18,667 - INFO - MainThread - Format organization enabled
+2025-04-17 11:15:18,667 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:15:18,667 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:15:18,667 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 11:15:18,667 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 11:15:18,668 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 11:15:18,668 - INFO - MainThread - Applying profile settings to Nikon E-M1 Mark II at usb:mock01
+2025-04-17 11:15:18,668 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:15:18,668 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:15:18,668 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:15:18,668 - INFO - MainThread - Capturing image from Nikon E-M1 Mark II
+2025-04-17 11:15:19,827 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_111519.jpg
+2025-04-17 11:15:19,828 - INFO - MainThread - Applying profile settings to Canon 5D Mark III at usb:mock02
+2025-04-17 11:15:19,828 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:15:19,828 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:15:19,828 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:15:19,829 - INFO - MainThread - Capturing image from Canon 5D Mark III
+2025-04-17 11:15:21,279 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_111521.jpg
+2025-04-17 11:15:21,279 - INFO - MainThread - Applying profile settings to Canon E-M1 Pro at usb:mock03
+2025-04-17 11:15:21,280 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:15:21,280 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:15:21,280 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:15:21,280 - INFO - MainThread - Capturing image from Canon E-M1 Pro
+2025-04-17 11:15:21,968 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_111521.jpg
+2025-04-17 11:15:21,968 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 11:15:21,968 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_111519.jpg
+2025-04-17 11:15:21,969 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_111521.jpg
+2025-04-17 11:15:21,969 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_111521.jpg
+2025-04-17 11:21:25,531 - INFO - MainThread - Created mock camera: Olympus X-T4 Mark III at usb:mock01
+2025-04-17 11:21:25,532 - INFO - MainThread - Created mock camera: Sony X-T4 Pro at usb:mock02
+2025-04-17 11:21:25,535 - INFO - MainThread - Created mock camera: Canon 5D at usb:mock03
+2025-04-17 11:21:25,535 - INFO - MainThread - Format organizer initialized
+2025-04-17 11:21:25,535 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:21:25,535 - INFO - MainThread - Format organization enabled
+2025-04-17 11:21:25,536 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:21:25,536 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:21:25,536 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 11:21:25,536 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 11:21:25,536 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 11:21:25,536 - INFO - MainThread - Applying profile settings to Olympus X-T4 Mark III at usb:mock01
+2025-04-17 11:21:25,536 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:21:25,536 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:21:25,536 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:21:25,536 - INFO - MainThread - Capturing image from Olympus X-T4 Mark III
+2025-04-17 11:21:26,164 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_112126.jpg
+2025-04-17 11:21:26,165 - INFO - MainThread - Applying profile settings to Sony X-T4 Pro at usb:mock02
+2025-04-17 11:21:26,165 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:21:26,165 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:21:26,165 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:21:26,165 - INFO - MainThread - Capturing image from Sony X-T4 Pro
+2025-04-17 11:21:26,880 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_112126.jpg
+2025-04-17 11:21:26,880 - INFO - MainThread - Applying profile settings to Canon 5D at usb:mock03
+2025-04-17 11:21:26,880 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:21:26,880 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:21:26,880 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:21:26,880 - INFO - MainThread - Capturing image from Canon 5D
+2025-04-17 11:21:27,488 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_112127.jpg
+2025-04-17 11:21:27,488 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 11:21:27,488 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_112126.jpg
+2025-04-17 11:21:27,488 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_112126.jpg
+2025-04-17 11:21:27,488 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_112127.jpg
+2025-04-17 11:22:55,800 - INFO - MainThread - Created mock camera: Canon X-T4 Pro at usb:mock01
+2025-04-17 11:22:55,801 - INFO - MainThread - Created mock camera: Fujifilm 5D Pro at usb:mock02
+2025-04-17 11:22:55,802 - INFO - MainThread - Created mock camera: Canon 5D Mark II at usb:mock03
+2025-04-17 11:22:55,803 - INFO - MainThread - Format organizer initialized
+2025-04-17 11:22:55,803 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:22:55,804 - INFO - MainThread - Format organization enabled
+2025-04-17 11:22:55,804 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:22:55,805 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:22:55,805 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 11:22:55,805 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 11:22:55,805 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 11:22:55,806 - INFO - MainThread - Applying profile settings to Canon X-T4 Pro at usb:mock01
+2025-04-17 11:22:55,806 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:22:55,806 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:22:55,806 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:22:55,806 - INFO - MainThread - Capturing image from Canon X-T4 Pro
+2025-04-17 11:22:57,043 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_112257.jpg
+2025-04-17 11:22:57,044 - INFO - MainThread - Applying profile settings to Fujifilm 5D Pro at usb:mock02
+2025-04-17 11:22:57,044 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:22:57,044 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:22:57,044 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:22:57,044 - INFO - MainThread - Capturing image from Fujifilm 5D Pro
+2025-04-17 11:22:58,100 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_112258.jpg
+2025-04-17 11:22:58,100 - INFO - MainThread - Applying profile settings to Canon 5D Mark II at usb:mock03
+2025-04-17 11:22:58,100 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:22:58,100 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:22:58,100 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:22:58,100 - INFO - MainThread - Capturing image from Canon 5D Mark II
+2025-04-17 11:22:58,709 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_112258.jpg
+2025-04-17 11:22:58,709 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 11:22:58,710 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_112257.jpg
+2025-04-17 11:22:58,710 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_112258.jpg
+2025-04-17 11:22:58,710 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_112258.jpg
+2025-04-17 11:25:17,946 - INFO - MainThread - Created mock camera: Olympus A7 Mark IV at usb:mock01
+2025-04-17 11:25:17,946 - INFO - MainThread - Created mock camera: Sony E-M1 Mark III at usb:mock02
+2025-04-17 11:25:17,946 - INFO - MainThread - Created mock camera: Fujifilm Z6 Mark III at usb:mock03
+2025-04-17 11:25:17,947 - INFO - MainThread - Format organizer initialized
+2025-04-17 11:25:17,947 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:25:17,947 - INFO - MainThread - Format organization enabled
+2025-04-17 11:25:17,947 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:25:17,947 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:25:17,947 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 11:25:17,948 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 11:25:17,948 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 11:25:17,948 - INFO - MainThread - Applying profile settings to Olympus A7 Mark IV at usb:mock01
+2025-04-17 11:25:17,948 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:25:17,948 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:25:17,948 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:25:17,948 - INFO - MainThread - Capturing image from Olympus A7 Mark IV
+2025-04-17 11:25:18,705 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_112518.jpg
+2025-04-17 11:25:18,705 - INFO - MainThread - Applying profile settings to Sony E-M1 Mark III at usb:mock02
+2025-04-17 11:25:18,706 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:25:18,706 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:25:18,706 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:25:18,706 - INFO - MainThread - Capturing image from Sony E-M1 Mark III
+2025-04-17 11:25:19,243 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_112519.jpg
+2025-04-17 11:25:19,244 - INFO - MainThread - Applying profile settings to Fujifilm Z6 Mark III at usb:mock03
+2025-04-17 11:25:19,244 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:25:19,244 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:25:19,244 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:25:19,244 - INFO - MainThread - Capturing image from Fujifilm Z6 Mark III
+2025-04-17 11:25:20,446 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_112520.jpg
+2025-04-17 11:25:20,446 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 11:25:20,446 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_112518.jpg
+2025-04-17 11:25:20,447 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_112519.jpg
+2025-04-17 11:25:20,447 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_112520.jpg
+2025-04-17 11:38:45,029 - INFO - MainThread - Created mock camera: Olympus E-M1 Mark IV at usb:mock01
+2025-04-17 11:38:45,035 - INFO - MainThread - Created mock camera: Olympus X-T4 Mark II at usb:mock02
+2025-04-17 11:38:45,039 - INFO - MainThread - Created mock camera: Nikon X-T4 Mark II at usb:mock03
+2025-04-17 11:38:45,039 - INFO - MainThread - Format organizer initialized
+2025-04-17 11:38:45,039 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:38:45,039 - INFO - MainThread - Format organization enabled
+2025-04-17 11:38:45,040 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:38:45,040 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:38:45,040 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 11:38:45,040 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 11:38:45,041 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 11:38:45,041 - INFO - MainThread - Applying profile settings to Olympus E-M1 Mark IV at usb:mock01
+2025-04-17 11:38:45,041 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:38:45,041 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:38:45,041 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:38:45,041 - INFO - MainThread - Capturing image from Olympus E-M1 Mark IV
+2025-04-17 11:38:45,711 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_113845.jpg
+2025-04-17 11:38:45,713 - INFO - MainThread - Applying profile settings to Olympus X-T4 Mark II at usb:mock02
+2025-04-17 11:38:45,714 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:38:45,714 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:38:45,714 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:38:45,714 - INFO - MainThread - Capturing image from Olympus X-T4 Mark II
+2025-04-17 11:38:46,708 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_113846.jpg
+2025-04-17 11:38:46,709 - INFO - MainThread - Applying profile settings to Nikon X-T4 Mark II at usb:mock03
+2025-04-17 11:38:46,709 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:38:46,709 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:38:46,709 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:38:46,709 - INFO - MainThread - Capturing image from Nikon X-T4 Mark II
+2025-04-17 11:38:47,257 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_113847.jpg
+2025-04-17 11:38:47,258 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 11:38:47,258 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_113845.jpg
+2025-04-17 11:38:47,258 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_113846.jpg
+2025-04-17 11:38:47,258 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_113847.jpg
+2025-04-17 11:49:56,867 - INFO - MainThread - Created mock camera: Fujifilm E-M1 at usb:mock01
+2025-04-17 11:49:56,868 - INFO - MainThread - Created mock camera: Nikon 5D Mark IV at usb:mock02
+2025-04-17 11:49:56,868 - INFO - MainThread - Created mock camera: Nikon 5D Mark II at usb:mock03
+2025-04-17 11:49:56,868 - INFO - MainThread - Format organizer initialized
+2025-04-17 11:49:56,868 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:49:56,868 - INFO - MainThread - Format organization enabled
+2025-04-17 11:49:56,868 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:49:56,868 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:49:56,868 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 11:49:56,869 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 11:49:56,869 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 11:49:56,869 - INFO - MainThread - Applying profile settings to Fujifilm E-M1 at usb:mock01
+2025-04-17 11:49:56,869 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:49:56,869 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:49:56,869 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:49:56,869 - INFO - MainThread - Capturing image from Fujifilm E-M1
+2025-04-17 11:49:58,105 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_114958.jpg
+2025-04-17 11:49:58,106 - INFO - MainThread - Applying profile settings to Nikon 5D Mark IV at usb:mock02
+2025-04-17 11:49:58,106 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:49:58,106 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:49:58,106 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:49:58,106 - INFO - MainThread - Capturing image from Nikon 5D Mark IV
+2025-04-17 11:49:59,376 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_114959.jpg
+2025-04-17 11:49:59,376 - INFO - MainThread - Applying profile settings to Nikon 5D Mark II at usb:mock03
+2025-04-17 11:49:59,376 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:49:59,377 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:49:59,377 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:49:59,377 - INFO - MainThread - Capturing image from Nikon 5D Mark II
+2025-04-17 11:50:00,370 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_115000.jpg
+2025-04-17 11:50:00,370 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 11:50:00,370 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_114958.jpg
+2025-04-17 11:50:00,371 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_114959.jpg
+2025-04-17 11:50:00,371 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_115000.jpg
+2025-04-17 11:51:32,521 - INFO - MainThread - Created mock camera: Canon Z6 Mark II at usb:mock01
+2025-04-17 11:51:32,521 - INFO - MainThread - Created mock camera: Sony E-M1 Mark II at usb:mock02
+2025-04-17 11:51:32,521 - INFO - MainThread - Created mock camera: Nikon Z6 Mark IV at usb:mock03
+2025-04-17 11:51:32,521 - INFO - MainThread - Format organizer initialized
+2025-04-17 11:51:32,521 - INFO - MainThread - Organize by format: enabled
+2025-04-17 11:51:32,521 - INFO - MainThread - Format organization enabled
+2025-04-17 11:51:32,521 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:51:32,521 - INFO - MainThread - Format preference set to: prefer_raw
+2025-04-17 11:51:32,522 - INFO - MainThread - Using existing profile: Demo Profile
+2025-04-17 11:51:32,522 - INFO - MainThread - Found 3 cameras: ['usb:mock01', 'usb:mock02', 'usb:mock03']
+2025-04-17 11:51:32,522 - INFO - MainThread - Starting profile capture with profile 'Demo Profile'
+2025-04-17 11:51:32,522 - INFO - MainThread - Applying profile settings to Canon Z6 Mark II at usb:mock01
+2025-04-17 11:51:32,522 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:51:32,522 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:51:32,522 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:51:32,523 - INFO - MainThread - Capturing image from Canon Z6 Mark II
+2025-04-17 11:51:33,610 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock01_20250417_115133.jpg
+2025-04-17 11:51:33,611 - INFO - MainThread - Applying profile settings to Sony E-M1 Mark II at usb:mock02
+2025-04-17 11:51:33,611 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:51:33,611 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:51:33,611 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:51:33,611 - INFO - MainThread - Capturing image from Sony E-M1 Mark II
+2025-04-17 11:51:34,713 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock02_20250417_115134.jpg
+2025-04-17 11:51:34,714 - INFO - MainThread - Applying profile settings to Nikon Z6 Mark IV at usb:mock03
+2025-04-17 11:51:34,714 - INFO - MainThread - Set ISO to 800
+2025-04-17 11:51:34,714 - INFO - MainThread - Set aperture to f/2.8
+2025-04-17 11:51:34,714 - INFO - MainThread - Set shutter speed to 1/500
+2025-04-17 11:51:34,714 - INFO - MainThread - Capturing image from Nikon Z6 Mark IV
+2025-04-17 11:51:35,253 - INFO - MainThread - Generated mock image at captures/2025-04-17/demo_profile-Demo_Profile_usb_mock03_20250417_115135.jpg
+2025-04-17 11:51:35,253 - INFO - MainThread - Capture complete: 3/3 successful
+2025-04-17 11:51:35,253 - INFO - MainThread - Camera usb:mock01: Captured demo_profile-Demo_Profile_usb_mock01_20250417_115133.jpg
+2025-04-17 11:51:35,253 - INFO - MainThread - Camera usb:mock02: Captured demo_profile-Demo_Profile_usb_mock02_20250417_115134.jpg
+2025-04-17 11:51:35,253 - INFO - MainThread - Camera usb:mock03: Captured demo_profile-Demo_Profile_usb_mock03_20250417_115135.jpg

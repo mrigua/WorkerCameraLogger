@@ -1,0 +1,111 @@
+# Multi-Camera Controller - Supported Formats
+
+This document provides information about the image formats supported by the Multi-Camera Controller system.
+
+## Supported Format Categories
+
+The Multi-Camera Controller supports a wide range of image formats, organized into the following categories:
+
+### RAW Formats
+RAW formats contain minimally processed data from the camera's image sensor. They provide the highest quality and most flexibility for post-processing.
+
+- `.arw` - Sony RAW
+- `.cr2` - Canon RAW v2
+- `.cr3` - Canon RAW v3
+- `.crw` - Canon RAW
+- `.dng` - Digital Negative (Adobe's universal RAW format)
+- `.erf` - Epson RAW
+- `.nef` - Nikon RAW
+- `.orf` - Olympus RAW
+- `.pef` - Pentax RAW
+- `.raf` - Fujifilm RAW
+- `.raw` - Generic RAW
+- `.rw2` - Panasonic RAW
+- `.srw` - Samsung RAW
+
+### JPEG Formats
+JPEG is a compressed image format that offers smaller file sizes at the cost of some image quality.
+
+- `.jpg` - JPEG
+- `.jpeg` - JPEG
+- `.jpe` - JPEG
+- `.jif` - JPEG
+- `.jfif` - JPEG
+
+### TIFF Formats
+TIFF is a flexible, high-quality format that supports lossless compression.
+
+- `.tif` - TIFF
+- `.tiff` - TIFF
+
+### PNG Formats
+PNG is a lossless compressed format that supports transparency.
+
+- `.png` - PNG
+
+### GIF Formats
+GIF supports animation and is commonly used for simple graphics.
+
+- `.gif` - GIF
+
+### Other Formats
+Additional formats that may be supported by some cameras:
+
+- `.bmp` - Bitmap
+- `.webp` - WebP
+- `.ico` - Icon
+- `.psd` - Adobe Photoshop
+- `.heic` - High Efficiency Image Format
+- `.heif` - High Efficiency Image Format
+
+## Format Support by Camera Type
+
+### Real Cameras (via gphoto2)
+The format support for real cameras depends on the specific camera model. Most DSLRs and mirrorless cameras support multiple formats, including RAW and JPEG.
+
+### Mock Cameras
+The mock camera system (used for testing) only supports JPEG format.
+
+## Format Preferences
+
+The Multi-Camera Controller allows you to set format preferences in the GUI:
+
+1. **Keep All Formats**: This is the default setting. The system will download all formats produced by the camera.
+
+2. **Prefer RAW**: When available, the system will prioritize RAW formats.
+
+3. **Prefer JPEG**: When available, the system will prioritize JPEG formats.
+
+Some cameras can be configured to capture in multiple formats simultaneously (e.g., RAW+JPEG). The format preference setting helps you manage these multi-format captures.
+
+## File Organization
+
+The Multi-Camera Controller can organize captured images by format type:
+
+1. **Format Subdirectories**: When enabled, the system will create subdirectories for each format category (RAW, JPEG, etc.) and place files in the appropriate directory.
+
+2. **Date-Based Organization**: Files are always organized by date using the pattern specified in the capture settings.
+
+## Format Detection
+
+The system automatically detects file formats based on file extensions. This information is displayed in the capture results log and can be used for filtering or processing images.
+
+## Limitations
+
+1. **Format Conversion**: The current version does not include format conversion capabilities. Files are saved in their original format as provided by the camera.
+
+2. **Mock Camera Limitations**: Mock cameras can only generate JPEG test images.
+
+3. **Camera Configuration**: Not all cameras allow remote configuration of their output format. In some cases, you will need to set the format directly on the camera.
+
+## Future Improvements
+
+Planned format-related improvements include:
+
+1. **Format Conversion**: Adding the ability to convert between formats (e.g., RAW to JPEG) during or after download.
+
+2. **Format Filtering**: Adding filters to show only specific formats in the UI.
+
+3. **Format Metadata**: Enhanced display of format-specific metadata (bit depth, compression ratio, etc.).
+
+4. **Format Profiles**: Creating custom format profiles for different shooting scenarios.

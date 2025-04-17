@@ -2,8 +2,6 @@
 
 A PyQt6-based application for controlling and managing multiple DSLR/mirrorless cameras simultaneously.
 
-![Multi-Camera Control](generated-icon.png)
-
 ## Features
 
 - **Multi-Camera Detection**: Automatically detects and connects to multiple cameras
